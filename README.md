@@ -1,5 +1,3 @@
-![Badge-Conversor](https://github.com/user-attachments/assets/a2b665c1-789a-4225-a2d7-5d94a4035a65)# Challange Conversor de Moedas
-
 ## Objetivo
 
 ### Desenvolver um Conversor de Moedas que ofereça interação textual (via console) com os usuários, proporcionando no mínimo 6 opções distintas de conversões de moedas em um menu. A taxa de conversão não será estática, mas sim dinamicamente obtida por meio de uma API, garantindo dados precisos e em tempo real para uma experiência mais atualizada e eficaz. 
